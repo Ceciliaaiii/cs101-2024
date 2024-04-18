@@ -73,6 +73,6 @@ int main(){
     cout<<car_3.m_brand;
     cout<<" : Drive Mode = "<<car_3.get_DriveMode()<<endl;
     
-    cout<<car_3.m_price;
+    
 }
 
